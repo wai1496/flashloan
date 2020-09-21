@@ -1,2 +1,2 @@
 ## DEFI
-Arbitrage POC using Aave and Uniswap protocol 
+Arbitrage using Aave and Uniswap protocol 
